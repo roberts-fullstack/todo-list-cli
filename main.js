@@ -2,7 +2,7 @@ const prompt = require('prompt-sync')({sigint:true});
 
 function welcome() {
     console.log('\n');1
-    console.log('Welcome to the To-Do List Manager Application!');
+    console.log('To-Do List Manager');
     console.log('\n');
     console.log('==============================================');
     console.log('\n');
